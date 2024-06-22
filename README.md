@@ -3,7 +3,7 @@
 - 👋 Hi, I'm @eskylake.
 - 😄 I'm loving coding.
 - 💬 Ask me about Web.
-- 📚 Knowledge-sharing enthusiast
+- 📚 Knowledge-sharing enthusiast.
 
 ## 💬 Contact:
 
