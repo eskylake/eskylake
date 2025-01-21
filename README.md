@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I'm @eskylake.
-- 😄 I'm loving coding.
+- 😄 I'm crazy about coding.
 - 💬 Ask me about Web.
 - 📚 Knowledge-sharing enthusiast.
 
